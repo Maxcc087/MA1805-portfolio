@@ -1,6 +1,6 @@
 name
 
-link
+https://maxcc087.github.io/MA1805-portfolio/
 
 [01.drawing](01.drawing/index.html)
 
